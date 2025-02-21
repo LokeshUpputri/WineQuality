@@ -1,8 +1,8 @@
 # WineQuality
 AAI-500 – Team Project
 Group 1:
-Lokesh Upputri
-Safwan Syed
+- Lokesh Upputri
+- Safwan Syed
 
 # Wine Quality Prediction Project
 
