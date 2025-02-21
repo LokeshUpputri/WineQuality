@@ -86,7 +86,7 @@ fixed acidity;volatile acidity;citric acid;residual sugar;chlorides;free sulfur 
 
 3. **Run the Analysis**:
 
-   - Open the Jupyter Notebook or Python script provided in the repository to start the analysis.
+- Open the Jupyter Notebook or Python script provided in the repository to start the analysis.
 
 
 ## Acknowledgments
