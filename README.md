@@ -74,7 +74,7 @@ fixed acidity;volatile acidity;citric acid;residual sugar;chlorides;free sulfur 
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/yourusername/wine-quality-prediction.git
+   git clone [https://github.com/yourusername/wine-quality-prediction.git](https://github.com/LokeshUpputri/WineQuality.git)
    cd wine-quality-prediction
    ```
 
